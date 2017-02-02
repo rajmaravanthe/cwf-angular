@@ -1,0 +1,16 @@
+<!-- 
+* * This configuration file is to configure the about yourself 
+* parameter : name,phone,email
+* Inputs 	: Boolean value (true / false) case sensitive)
+**
+-->
+
+<abouturself>
+	<name>true</name> <!-- Make citizen name true means mandatory. False means not mandatory  -->
+	<phone>true</phone> <!-- Make citizen phone number true means mandatory. False means not mandatory  -->
+	<email>true</email> <!-- Make citizen email true means mandatory. False means not mandatory  -->
+	<zipCode>true</zipCode> <!-- Make city zipCode true means mandatory. False means not mandatory  -->
+	<googlemap>on</googlemap> <!-- Make google map on means, it display the map otherwise it will close the google map.  -->
+	<mandatoryuserdetails>false</mandatoryuserdetails> <!-- Make user details true means, skip&conform button will not display else if false then it will display.  -->
+	<prefixreportname>cwf</prefixreportname> <!-- Set the report name if the user doen't enter the name, then the report name will fetch from here.  -->
+</abouturself>

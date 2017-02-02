@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+.modal-window .modal-content { margin: 0px auto 0px; padding-top: 150px; }
+
+	.qlabels-out{background-color: #ffffff; padding: 0 0 20px 0; margin: 0 0 10px 0; }
+	
+	#tabs_main{background-color: white;}
+	#fragment-2 #report-tab2 #tabs_sub ul{float: left; margin: 20px 0 0 0; padding: 0; list-style-type: none; width: 156px; z-index: 10; position: absolute; top:10px; left: 10px; display: inline; font-family: Arial, Verdana, Tahoma; font-size: 11px;}
+
+	
+	.ques-fields{float: left; border: 1px solid #afafaf; width: 620px;  margin: 0 0 0 155px; background-color: #f1f1f1; z-index: 9; top:10px; left: 10px; display: inline; clear: both; position: absolute;}			
+	
+.afterqlabels-out{padding: 5px; margin: 0 0 10px 0;height: 870px;}
+
+.datepicker{border: 3px solid #f00;}
+.report-loc{background-color: #ffffff; padding: 5px; margin: 0 0 10px 0; height: 625px;}
+
+.field > * { vertical-align: middle; }
+div.textContainer, div.textContainerSmall, div.textarea-container, div.select-container { display: inline; }
+.select-container-ampm, div.optionTimeContainer, .field .radio-box { display: inline; }
+
+#contact-us-form .modal-content { position: static; margin: 0px auto 0px; padding-top: 150px; }
+		
+fieldset h3 { float: left; }
+div.optionContainer { float: right; }
+div.text-link { float: left; }
+.text-link.middle { margin-left: 220px; }
+
+.frmstep1 .padded-label.fieldcap { padding-top: 5px; }
+
+.frmPersonalInfo .field-list > * { float: left; vertical-align: middle; }
+
+.frmVehicleInfo .veh-inv-out ul.veh-slides { display: block; width: 945px; height: 118px; }
+.frmVehicleInfo .veh-inv-out ul.veh-slides li { display: block; float: left; }
+.frmVehicleInfo .field-list > * { float: left; }
+.frmVehicleInfo .field-list .fieldcap { padding-top: 5px; }
+.frmVehicleInfo .vehicleAddInfo { padding-left: 125px; }
+.frmVehicleInfo .vehicleColorInfo { padding-left: 125px; }
+.frmVehicleInfo .vehicleColorInfo input[type=checkbox] { margin-top: 10px; }
+
+.frmAdditionalInfo .field-list > * { float: left; vertical-align: middle; }
+
+#confirmation-screen fieldset h3 { display: block; float: none; }

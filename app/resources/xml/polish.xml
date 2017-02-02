@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+
+    <!-- Landing.html texts -->
+    <translation class="landing-home">
+        <polish>Dom</polish>
+    </translation>
+    <translation class="landing-contact">
+        <polish>Skontaktuj Się Z Nami</polish>
+    </translation>
+    <translation class="landing-further-detail">
+        <polish>Dalsze szczegóły kontaktu :</polish>
+    </translation>
+    <translation class="landing-contact-us">
+        <polish>skontaktuj się z nami</polish>
+    </translation>
+
+
+    <!-- home.html Texts-->
+    <translation class="txt-wel">
+        <polish>Witamy w &lt; APP &gt;, the &lt;br /&gt; Inicjatywa APP do &lt;br /&gt;utrzymać się i &lt;br /&gt; Twój sąsiad bezpieczne</polish>
+       
+    </translation>
+
+    <!-- personalInfo.html Texts-->
+    <translation class="about-yourself">
+        <polish>Proszę opowiedzieć o sobie</polish>
+    </translation>
+    <translation class="personal-info-your-name">
+        <polish>Jak masz na imię?*</polish>
+    </translation>
+    <translation class="personal-info-contact-info">
+        <polish>Czy chciałbyś , aby dostarczyć informacje o kontakcie?</polish>
+    </translation>
+    <translation class="personal-info-address-line">
+        <polish>adres - Linia 1</polish>
+    </translation>
+    <translation class="personal-info-Line2">
+        <polish>Linia 2</polish>
+    </translation>
+    <translation class="personal-info-city">
+        <polish>miasto</polish>
+    </translation>
+    <translation class="personal-info-state">
+        <polish>stan</polish>
+    </translation>
+    <translation class="personal-info-zip">
+        <polish>Kod pocztowy*</polish>
+    </translation>
+    <translation class="personal-info-phone">
+       <polish>Numer telefonu*</polish>
+    </translation>
+    <translation class="personal-info-email">
+        <polish>Adres email*</polish>
+    </translation>
+    <translation class="personal-info-confirm">
+        <polish>Potwierdzić *and Zatwierdź</polish>
+    </translation>
+    <translation class="personal-info-back">
+        <polish>plecy</polish>
+    </translation>
+    <translation class="personal-info-submit-anonymously">
+        <polish>Wyślij anonimowo</polish>
+    </translation>
+
+    <!-- Step1.html Texts-->
+    <translation class="lang-step-what-you-see">
+        <polish>Co widziałeś?--(Należy jak najbardziej szczegółowy)</polish>
+    </translation>
+    <translation class="lang-step-what-you-see-tooltip">
+       <polish>--(Należy jak najbardziej szczegółowy)</polish>
+    </translation>
+    <translation class="lang-step-happen">
+         <polish>Kiedy to się stało?</polish>
+    </translation>
+    <translation class="lang-step-please-describe">
+        <polish>Widziałam (Proszę opisać)</polish>
+    </translation>
+    <translation class="lang-step-day-of-week">
+        <polish>Data/Dzień tygodnia</polish>
+    </translation>
+    <translation class="lang-step-time-of-day">
+        <polish>Pora dnia</polish>
+    </translation>
+    <translation class="lang-step-recurring-event">
+        <polish>Czy to wydarzenie cykliczne?</polish>
+    </translation>
+    <translation class="lang-yes">
+        <polish>tak</polish>
+    </translation>
+    <translation class="lang-no">
+        <polish>nie</polish>
+    </translation>
+    <translation class="lang-step-where-occur">
+        <polish>Skąd to występuje?--(Należy jak najbardziej szczegółowy)</polish>
+    </translation>
+    <translation class="lang-step-where-occur-detail">
+        <polish>(Proszę być jak najbardziej szczegółowy)</polish>
+    </translation>
+    <translation class="lang-step-enter-address">
+        <polish>Wpisz adres lub przecięcie ulic</polish>
+    </translation>
+    <translation class="lang-step-mapFieldExample">
+         <polish>Np. 123 Main St, New York, NY 10020 lub Broadway i Canal St, Nowy Jork 10039.</polish>
+    </translation>
+    <translation class="lang-step-add-information">
+        <polish>Czy chciałbyś, aby dodać dodatkowe informacje ?</polish>
+    </translation>
+    <translation class="lang-step-persons-involved">
+        <polish>Czy możesz opisać osoby zaangażowane ?</polish>
+    </translation>
+    <translation class="lang-step-vehicles-involved">
+        <polish>Czy możesz opisać pojazdów uczestniczących w wypadku</polish>
+    </translation>
+    <translation class="lang-step-want-addl-info">
+        <polish>Czy chcesz dodać dodatkowe informacje ?</polish>
+    </translation>
+    <translation class="lang-step-attach-anything">
+        <polish>Chciałbyś dołączyć coś (np zdjęć, filmów , itp )</polish>
+    </translation>
+    <translation class="lang-step-submit-report">
+        <polish>Czy chcesz przesłać raport?</polish>
+    </translation>
+    <translation class="description-validation">
+        <polish>Opis jest obowiązkowe</polish>
+    </translation>
+
+    <!--  PersonInvolved.html-->
+    <translation class="person-involved-race">
+       <polish>Wyścig</polish>
+    </translation>
+    <translation class="person-involved-gender">
+       <polish>Płeć</polish>
+    </translation>
+    <translation class="person-involved-height">
+       <polish>Wysokość</polish>
+    </translation>
+    <translation class="person-involved-age">
+        <polish>wiek</polish>
+    </translation>
+    <translation class="person-involved-ft-inch">
+        <polish>np.(6ft 2inches jest 602)</polish>
+    </translation>
+    <translation class="person-involved-build">
+        <polish>budować</polish>
+    </translation>
+    <translation class="person-involved-eye-color">
+        <polish>Kolor oczu</polish>
+    </translation>
+    <translation class="person-involved-hair-color">
+        <polish>Kolor włosów</polish>
+    </translation>
+    <translation class="person-involved-addl-info">
+        <polish>Wszelkie dodatkowe informacje, które można dodać na temat tej osoby</polish>
+    </translation>
+    <translation class="person-involved-name">
+        <polish>Imię</polish>
+    </translation>
+    <translation class="person-involved-aliasname">
+        <polish>Nazwa alias</polish>
+    </translation>
+    <translation class="person-involved-desc-person">
+        <polish>Czy możesz opisać osoby zaangażowane?--(Należy jak najbardziej szczegółowy)</polish>
+    </translation>
+    <translation class="person-involved-desc-person-tooltip">
+       <polish>(Proszę być jak najbardziej szczegółowy)</polish>
+    </translation>
+    <translation class="person-involved-vehicle-involved">
+       <polish>Czy możesz opisać pojazdów uczestniczących w wypadku ?</polish>
+    </translation>
+    <translation class="person-involved-addl-information">
+        <polish>Czy chcesz dodać dodatkowe informacje ?</polish>
+    </translation>
+    <translation class="person-involved-attach">
+        <polish>Chciałbyś dołączyć coś (np zdjęć, filmów , itp)</polish>
+    </translation>
+    <translation class="go-btn">
+        <polish>iść</polish>
+    </translation>
+    <translation class="remove-field">
+        <polish>usunąć</polish>
+    </translation>
+
+
+    <!-- Additional Info Step4 -->
+    <translation class="addl-info-want-addl-info">
+        <polish>Czy chcesz dodać dodatkowe informacje?--(Należy jak najbardziej szczegółowy)</polish>
+    </translation>
+    <translation class="addl-info-want-addl-info-tooltip">
+        <polish>(Proszę być jak najbardziej szczegółowy)</polish>
+    </translation>
+    <translation class="addl-info-title-addl-info">
+        <polish>Dodatkowe informacje</polish>
+    </translation>
+    <translation class="addl-info-desc-person-involved">
+        <polish>Czy możesz opisać osoby zaangażowane ?</polish>
+    </translation>
+    <translation class="addl-info-desc-vehicles-involved">
+        <polish>Czy możesz opisać pojazdów uczestniczących w wypadku ?</polish>
+    </translation>
+    <translation class="addl-info-attach-anything">
+        <polish>Chciałbyś dołączyć coś (np zdjęć, filmów , itp)</polish>
+    </translation>
+
+    <!-- vehicleInvolved.html texts-->
+    <translation class="transport-info">
+        <polish>Informacje o transporcie</polish>
+    </translation>
+    <translation class="transport-type">
+        <polish>Rodzaj transportu</polish>
+    </translation>
+    <translation class="transport-vehicle">
+        <polish>Pojazd</polish>
+    </translation>
+    <translation class="transport-aircraft">
+        <polish>Samoloty</polish>
+    </translation>
+    <translation class="transport-vessel">
+        <polish>Statek</polish>
+    </translation>
+    <translation class="transport-remove">
+        <polish>usunąć</polish>
+    </translation>
+    <translation class="transport-make">
+        <polish>Marka</polish>
+    </translation>
+    <translation class="transport-model">
+        <polish>model</polish>
+    </translation>
+    <translation class="transport-register">
+        <polish>Stan Rejestracja</polish>
+    </translation>
+    <translation class="transport-color">
+        <polish>kolor</polish>
+    </translation>
+    <translation class="transport-license">
+        <polish>Tablica rejestracyjna Nie</polish>
+    </translation>
+    <translation class="transport-year">
+        <polish>rok</polish>
+
+    </translation>
+    <translation class="transport-partial">
+       <polish>Czy Częściowa Plate ?</polish>
+    </translation>
+    <translation class="transport-addl-info">
+        <polish>Wszelkie dodatkowe dane pojazdu</polish>
+    </translation>
+    <translation class="transport-vehicle-involved">
+        <polish>Czy możesz opisać pojazdów uczestniczących w wypadku ?--(Należy jak najbardziej szczegółowy)</polish>
+    </translation>
+    <translation class="transport-vehicle-involved-tooltip">
+        <polish>(Proszę być jak najbardziej szczegółowy)</polish>
+    </translation>
+    <translation class="transport-person-involved">
+        <polish>Czy możesz opisać osoby zaangażowane ?</polish>
+    </translation>
+    <translation class="transport-add-addl-info">
+        <polish>Czy chcesz dodać dodatkowe informacje ?</polish>
+    </translation>
+    <translation class="transport-attach">
+        <polish>Chciałbyś dołączyć coś (np zdjęć, filmów, itp)</polish>
+    </translation>
+
+
+<!-- Uploadattachments.html texts-->
+
+    <translation class="upload-attach-add-attachment">
+        <polish>Czy chcesz dodać załączniki (zdjęcia, filmy, dokumenty etc.) ?</polish>
+    </translation>
+    <translation class="upload-attach-desc-person-involved">
+       <polish>Czy możesz opisać osoby zaangażowane ?</polish>
+    </translation>
+    <translation class="upload-attach-desc-vehicle-involved">
+        <polish>Czy możesz opisać pojazdów uczestniczących w wypadku ?</polish>
+    </translation>
+    <translation class="upload-attach-add-addl-info">
+        <polish>Czy chcesz dodać dodatkowe informacje ?</polish>
+    </translation>
+    <translation class="ua-upload-button">
+        <polish>Kliknij aby Przeglądaj</polish>
+    </translation>
+<!-- Thankyou.html -->
+    <translation class="thank-you">
+        <polish>Dziękuję bardzo za pomoc. &lt;br /&gt;
+            Będziemy patrzeć w raporcie i podejmować odpowiednie działania .</polish>
+    </translation>
+    <translation class="thank-you-interest">
+        <polish>Dziękujemy za zainteresowanie dobro Twojej okolicy &lt;br /&gt;
+            i społeczność. </polish>
+    </translation>
+    <translation class="thank-you-track-report">
+        <polish>Czy chcesz śledzić raport :- </polish>
+    </translation>
+    <translation class="tracking-reference">
+        <polish>Twój odniesienia śledzenia raport jest : </polish>
+    </translation>
+    <translation class="thank-you-clickhere">
+        <polish>Kliknij tutaj!</polish>
+    </translation>
+    <translation class="cancel-btn">
+        <polish>Anuluj</polish>
+    </translation>
+    <translation class="return-home-btn">
+        <polish>Powrót do domu</polish>
+    </translation>
+    <translation class="submit-report-btn">
+        <polish>Wyślij raport</polish>
+    </translation>
+    <translation class="submit-btn">
+        <polish>Zatwierdź</polish>
+    </translation>
+    <translation class="confirm-submit-btn">
+        <polish>potwierdzać &amp; Zatwierdź</polish>
+    </translation>
+    <translation class="add-another-person">
+        <polish>Dodaj inną osobę</polish>
+    </translation>
+    <translation class="add-another-vehicle">
+        <polish>Dodaj inny pojazd</polish>
+    </translation>
+    <translation class="proceed-btn">
+        <polish>Przejdź</polish>
+    </translation>
+
+    <translation class="thanks-report-sent">
+        <polish>Raport wysłany.</polish>
+    </translation>
+
+    <translation class="submit-another-report">
+        <polish>Przedstawić kolejny raport</polish>
+    </translation>
+
+<!--  Reported -->
+
+    <translation class="person-reported">
+        <polish>Osoba Zgłoszone</polish>
+    </translation>
+    <translation class="vehicles-reported">
+        <polish>Środki zgłaszane</polish>
+    </translation>
+    <translation class="file-uploaded">
+        <polish>Plik Wgrane</polish>
+    </translation>
+    <translation class="nsi-text">
+        <polish>2010 Wszelkie prawa zastrzeżone</polish>
+    </translation>
+
+
+
+ 
+</translations>

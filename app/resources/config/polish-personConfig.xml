@@ -1,0 +1,142 @@
+<!-- 
+* * This configuration file is to configure the person invvolved page.
+* parameter : name
+* Inputs 	: Boolean value (true / false) case sensitive)
+**
+-->
+
+<person>
+	<name>true</name> <!-- Make person involved name field mendatory when it is true. Eg.true -->
+	<!-- Create a value for person race drop down value and their  code -->
+	<personrace>
+		<racename title="SELECT">
+			<racecode></racecode>
+		</racename>
+		<racename title="AMERICAN INDIAN">
+			<racecode>I</racecode>
+		</racename>
+		<racename title="ASIAN">
+			<racecode>A</racecode>
+		</racename>
+		<racename title="BLACK">
+			<racecode>B</racecode>
+		</racename>
+		<racename title="UNKNOWN">
+			<racecode>U</racecode>
+		</racename>
+		<racename title="WHITE">
+			<racecode>W</racecode>
+		</racename>
+	</personrace>
+	<!-- Create a value for person gender drop down value and their  code -->
+	<personGender>
+		<gendername title="SELECT">
+			<gendercode></gendercode>
+		</gendername>
+		<gendername title="MĘSKI">
+			<gendercode>MĘSKI</gendercode>
+		</gendername>
+		<gendername title="KOBIETA">
+			<gendercode>KOBIETA</gendercode>
+		</gendername>
+	</personGender>
+	<!-- Create a value for person build drop down value and their  code -->
+	<personbuild>
+		<buildname title="SELECT">
+			<buildcode></buildcode>
+		</buildname>
+		<buildname title="PESADO">
+			<buildcode>PESADO</buildcode>
+		</buildname>
+		<buildname title="MEDIO">
+			<buildcode>MEDIO</buildcode>
+		</buildname>
+		<buildname title="ESBELTO">
+			<buildcode>ESBELTO</buildcode>
+		</buildname>
+		<buildname title="DELGADO">
+			<buildcode>DELGADO</buildcode>
+		</buildname>
+	</personbuild>
+	<!-- Create a value for person eye color drop down value and their  code -->
+	<personeyecolor>
+		<eyecolor title="SELECT">
+			<eyecolorcode></eyecolorcode>
+		</eyecolor>
+		<eyecolor title="BLACK">
+			<eyecolorcode>BLK</eyecolorcode>
+		</eyecolor>
+		<eyecolor title="BLUE">
+			<eyecolorcode>BLU</eyecolorcode>
+		</eyecolor>
+		<eyecolor title="BROWN">
+			<eyecolorcode>BRO</eyecolorcode>
+		</eyecolor>
+		<eyecolor title="GRAY">
+			<eyecolorcode>GRY</eyecolorcode>
+		</eyecolor>
+		<eyecolor title="GREEN">
+			<eyecolorcode>GRN</eyecolorcode>
+		</eyecolor>
+		<eyecolor title="HAZEL">
+			<eyecolorcode>HAZ</eyecolorcode>
+		</eyecolor>
+		<eyecolor title="MAROON">
+			<eyecolorcode>MAR</eyecolorcode>
+		</eyecolor>
+		<eyecolor title="MULTICOLORED">
+			<eyecolorcode>MUL</eyecolorcode>
+		</eyecolor>
+		<eyecolor title="PINK">
+			<eyecolorcode>PINK</eyecolorcode>
+		</eyecolor>
+		<eyecolor title="UNKNOWN">
+			<eyecolorcode>XXX</eyecolorcode>
+		</eyecolor>
+	</personeyecolor>
+	<!-- Create a value for person hair color drop down value and their  code -->
+	<personhaircolor>
+		<haircolor title="SELECT">
+			<haircolorcode></haircolorcode>
+		</haircolor>
+		<haircolor title="BLACK">
+			<haircolorcode>BLK</haircolorcode>
+		</haircolor>
+		<haircolor title="BLOND OR STRAWBERRY">
+			<haircolorcode>BLN</haircolorcode>
+		</haircolor>
+		<haircolor title="BLUE">
+			<haircolorcode>BLU</haircolorcode>
+		</haircolor>
+		<haircolor title="BROWN">
+			<haircolorcode>BRO</haircolorcode>
+		</haircolor>
+		<haircolor title="GRAY OR PARTIALLY GRAY">
+			<haircolorcode>GRY</haircolorcode>
+		</haircolor>
+		<haircolor title="GREEN">
+			<haircolorcode>GRN</haircolorcode>
+		</haircolor>
+		<haircolor title="ORANGE">
+			<haircolorcode>ONG</haircolorcode>
+		</haircolor>
+		<haircolor title="PINK">
+			<haircolorcode>PNK</haircolorcode>
+		</haircolor>
+		<haircolor title="PURPLE">
+			<haircolorcode>PLE</haircolorcode>
+		</haircolor>
+		<haircolor title="RED OR AUBURN">
+			<haircolorcode>RED</haircolorcode>
+		</haircolor>
+		<haircolor title="SANDY">
+			<haircolorcode>SDY</haircolorcode>
+		</haircolor>
+		<haircolor title="UNKNOWN OR COMPLETELY BALD">
+			<haircolorcode>XXX</haircolorcode>
+		</haircolor>
+		<haircolor title="WHITE">
+			<haircolorcode>WHI</haircolorcode>
+		</haircolor>
+	</personhaircolor>
+</person>

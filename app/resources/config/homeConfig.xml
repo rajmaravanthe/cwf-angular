@@ -1,0 +1,43 @@
+<!-- 
+* * This configuration file is to configure the Home page logo, copyrights and home link label.
+* parameter : path and  texts
+* Inputs 	: image source path and  texts
+**
+-->
+
+<homeConfigRoot>
+	<logoWidth>45px</logoWidth> <!-- Set the logo width Eg. 45px -->
+	<logoHeight>36px</logoHeight> <!-- Set the logo height Eg 36px -->
+	<logoPath>images/logo_alone_iwatch.gif</logoPath> <!-- Path for your logo, size should be 45x36 Pixels (Eg.images/logo_alone_iwatch.gif) -->
+	<logoData>Your Text</logoData> <!-- Give the logo text Eg iWatch Tetrus -->
+	<logoTextWidth>75px</logoTextWidth> <!-- Set the logo Text width Eg. 45px -->
+	<logoTextHeight>36px</logoTextHeight> <!-- Set the logo Text height Eg 36px -->
+	<homeLinkLabelName>Home</homeLinkLabelName> <!-- Give the Home page Link label Eg.Home -->
+	<beforeCopyRightsSymbol>NSI</beforeCopyRightsSymbol> <!-- Give the Name of copy rights that place pre-text of copy rights symbol Eg. NSI -->
+	<afterCopyRightsSymbol>2010. All rights reserved</afterCopyRightsSymbol> <!-- Give the Name of copy rights that place post-text of copy rights symbol Eg. 2010. All rights reserved -->
+	<agencycontactshow>true</agencycontactshow> <!-- Make true for show the contact name and number in footer -->
+	<agencycontactname>AgencyName</agencycontactname> <!-- Agency name will display in footer -->
+	<agencycontactnumber>123-123-1234</agencycontactnumber> <!-- Agency contact numebr will display in footer -->
+	<agencyContactDetails>
+		<agencyPersonName>Shane Paul</agencyPersonName> <!-- The agency contact person name -->
+		<agencyPersonRole>Analysis</agencyPersonRole> <!-- The agency contact person role Eg. Analytics -->
+		<agencyPersonEmail>shanepaul@abc.abc</agencyPersonEmail> <!-- The agency contact person Email Eg. XXX@XXX.XXX  -->
+		<agencyPersonNumber>123-123-1234</agencyPersonNumber> <!-- The agency contact person contact number Eg. 123-123-1234 -->
+		
+		<agencyPersonName>Jhon David</agencyPersonName> <!-- The agency contact person name -->
+		<agencyPersonRole>Engineer</agencyPersonRole> <!-- The agency contact person role Eg. Analytics -->
+		<agencyPersonEmail>jhondav@xyz.xyz</agencyPersonEmail> <!-- The agency contact person Email Eg. XXX@XXX.XXX  -->
+		<agencyPersonNumber>555-444-3333</agencyPersonNumber> <!-- The agency contact person contact number Eg. 123-123-1234 -->
+		
+		<agencyPersonName>Smith Niji</agencyPersonName> <!-- The agency contact person name -->
+		<agencyPersonRole>Engineer</agencyPersonRole> <!-- The agency contact person role Eg. Analytics -->
+		<agencyPersonEmail>smithn@aaa.bbb</agencyPersonEmail> <!-- The agency contact person Email Eg. XXX@XXX.XXX  -->
+		<agencyPersonNumber>543-653-9876</agencyPersonNumber> <!-- The agency contact person contact number Eg. 123-123-1234 -->
+		
+		<agencyPersonName>Stephen J</agencyPersonName> <!-- The agency contact person name -->
+		<agencyPersonRole>Tester</agencyPersonRole> <!-- The agency contact person role Eg. Analytics -->
+		<agencyPersonEmail>stephenj@tester.test</agencyPersonEmail> <!-- The agency contact person Email Eg. XXX@XXX.XXX  -->
+		<agencyPersonNumber>222-333-4444</agencyPersonNumber> <!-- The agency contact person contact number Eg. 123-123-1234 -->
+	
+	</agencyContactDetails> 
+</homeConfigRoot>

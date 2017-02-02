@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+
+    <!-- Landing.html texts -->
+    <translation class="landing-home">
+        <spanish>hogar</spanish>
+    </translation>
+    <translation class="landing-contact">
+       <spanish>contáctenos</spanish>
+    </translation>
+    <translation class="landing-further-detail">
+       <spanish>Para más detalles del contacto :</spanish>
+    </translation>
+    <translation class="landing-contact-us">
+        <spanish></spanish>
+    </translation>
+
+
+    <!-- home.html Texts-->
+    <translation class="txt-wel">
+        
+        <spanish>Bienvenido a &lt; APP &gt;,  &lt;br /&gt;la iniciativa APP &lt;br /&gt; para que mantengan y &lt;br /&gt; segura su vecino</spanish>
+    </translation>
+
+    <!-- personalInfo.html Texts-->
+    <translation class="about-yourself">
+        <spanish>Por favor, cuéntenos acerca de usted</spanish>
+      
+    </translation>
+    <translation class="personal-info-your-name">
+        <spanish>Cuál es tu nombre?*</spanish>
+        
+    </translation>
+    <translation class="personal-info-contact-info">
+        <spanish>¿Te gustaría proporcionar cualquier información de contacto ?</spanish>
+        
+    </translation>
+    <translation class="personal-info-address-line">
+        <spanish>Dirección Línea 1</spanish>
+       
+    </translation>
+    <translation class="personal-info-Line2">
+        <spanish>Línea 2</spanish>
+        
+    </translation>
+    <translation class="personal-info-city">
+        <spanish>ciudad</spanish>
+       
+    </translation>
+    <translation class="personal-info-state">
+        <spanish>estado</spanish>
+       
+    </translation>
+    <translation class="personal-info-zip">
+        <spanish>Código Postal*</spanish>
+       
+    </translation>
+    <translation class="personal-info-phone">
+        <spanish>Número Telefónico*</spanish>
+       
+    </translation>
+    <translation class="personal-info-email">
+        <spanish>Dirección De Correo Electrónico*</spanish>
+        
+    </translation>
+    <translation class="personal-info-confirm">
+        <spanish>Confirmar *and Enviar</spanish>
+    </translation>
+    <translation class="personal-info-back">
+        <spanish>atrás</spanish>
+    </translation>
+    <translation class="personal-info-submit-anonymously">
+        <spanish>Presentar de forma anónima</spanish>
+    </translation>
+
+
+    <!-- Step1.html Texts-->
+    <translation class="lang-step-what-you-see">
+        <spanish>Qué viste?--(Por favor sea lo más detallada posible)</spanish>
+       
+    </translation>
+    <translation class="lang-step-what-you-see-tooltip">
+        <spanish>( Por favor sea lo más detallado posible )</spanish>
+        
+    </translation>
+    <translation class="lang-step-happen">
+        <spanish>Cuándo ocurrió?</spanish>
+       
+    </translation>
+    <translation class="lang-step-please-describe">
+        <spanish>Vi ( favor describir )</spanish>
+
+    </translation>
+    <translation class="lang-step-day-of-week">
+        <spanish>Fecha / Día de la semana</spanish>
+    
+    </translation>
+    <translation class="lang-step-time-of-day">
+        <spanish>Hora del día</spanish>
+       
+    </translation>
+    <translation class="lang-step-recurring-event">
+        <spanish>¿Es este un evento recurrente ?</spanish>
+       
+    </translation>
+    <translation class="lang-yes">
+        <spanish>sí</spanish>
+        
+    </translation>
+    <translation class="lang-no">
+        <spanish>no</spanish>
+       
+    </translation>
+    <translation class="lang-step-where-occur">
+        <spanish>¿Dónde ocurrió?--(Por favor sea lo más detallada posible)</spanish>
+       
+    </translation>
+    <translation class="lang-step-where-occur-detail">
+        <spanish>( Por favor sea lo más detallado posible )</spanish>
+        
+    </translation>
+    <translation class="lang-step-enter-address">
+        <spanish>Introducir dirección o intersección</spanish>
+       
+    </translation>
+    <translation class="lang-step-mapFieldExample">
+        <spanish>Ej . 123 Main St, New York, NY 10020 o Broadway y Canal St , Nueva York 10039 .</spanish>
+        
+    </translation>
+    <translation class="lang-step-add-information">
+        <spanish>¿Quieres añadir información adicional?</spanish>
+       
+    </translation>
+    <translation class="lang-step-persons-involved">
+        <spanish>¿Puede describir a las personas involucradas ?</spanish>
+       
+    </translation>
+    <translation class="lang-step-vehicles-involved">
+        <spanish>¿Puede describir los vehículos implicados</spanish>
+        
+    </translation>
+    <translation class="lang-step-want-addl-info">
+        <spanish>¿Quieres añadir información adicional?</spanish>
+        
+    </translation>
+    <translation class="lang-step-attach-anything">
+        <spanish>¿Te gustaría adjuntar cualquier cosa ( por ejemplo, fotos , vídeos , etc )</spanish>
+        
+    </translation>
+    <translation class="lang-step-submit-report">
+        <spanish>Qué desea presentar el informe ?</spanish>
+        
+    </translation>
+    <translation class="basic-dialog">
+        <spanish>Este es el cuadro de diálogo por defecto que es útil para la visualización de información. La ventana de diálogo se puede mover , cambiar de tamaño y se cierra con el icono de los ' x' .</spanish>
+    </translation>
+    <translation class="description-validation">
+        <spanish>Descripción es obligatorio</spanish>
+    </translation>
+
+    <!--  PersonInvolved.html-->
+    <translation class="person-involved-race">
+        <spanish>carrera</spanish>
+        
+    </translation>
+    <translation class="person-involved-gender">
+        <spanish>género</spanish>
+        
+    </translation>
+    <translation class="person-involved-height">
+        <spanish>altura</spanish>
+        
+    </translation>
+    <translation class="person-involved-age">
+        <spanish>edad</spanish>
+        
+    </translation>
+    <translation class="person-involved-ft-inch">
+        <spanish>por ejemplo . ( 6 pies 2 pulgadas es 602 )</spanish>
+        
+    </translation>
+    <translation class="person-involved-build">
+        <spanish>construir</spanish>
+        
+    </translation>
+    <translation class="person-involved-eye-color">
+        <spanish>color De Ojos</spanish>
+       
+    </translation>
+    <translation class="person-involved-hair-color">
+        <spanish>color De Cabello</spanish>
+       
+    </translation>
+    <translation class="person-involved-addl-info">
+        <spanish>Cualquier información adicional que se puede agregar acerca de esta persona</spanish>
+        
+    </translation>
+    <translation class="person-involved-name">
+        <spanish>nombre</spanish>
+        
+    </translation>
+    <translation class="person-involved-aliasname">
+        <spanish>Apodo</spanish>
+        
+    </translation>
+    <translation class="person-involved-desc-person">
+        <spanish>¿Puede describir a las personas involucradas ?--(Por favor sea lo más detallado posible)</spanish>
+       
+    </translation>
+    <translation class="person-involved-desc-person-tooltip">
+        <spanish>( Por favor sea lo más detallado posible )</spanish>
+        
+    </translation>
+    <translation class="person-involved-vehicle-involved">
+        <spanish>¿Puede describir los vehículos implicados ?</spanish>
+        
+    </translation>
+    <translation class="person-involved-addl-information">
+        <spanish>¿Quieres añadir información adicional?</spanish>
+       
+    </translation>
+    <translation class="person-involved-attach">
+        <spanish>¿Te gustaría adjuntar cualquier cosa ( por ejemplo, fotos , vídeos , etc )</spanish>
+        
+    </translation>
+    <translation class="go-btn">
+        <spanish>irse</spanish>
+    </translation>
+    <translation class="remove-field">
+        <spanish>Eliminar</spanish>
+    </translation>
+
+
+
+    <!-- Additional Info Step4 -->
+    <translation class="addl-info-want-addl-info">
+        <spanish>¿Quieres añadir información adicional?--(Por favor sea lo más detallado posible)</spanish>
+        
+    </translation>
+    <translation class="addl-info-want-addl-info-tooltip">
+        <spanish>( Por favor sea lo más detallado posible )</spanish>
+       
+    </translation>
+    <translation class="addl-info-title-addl-info">
+        <spanish>Información Adicional</spanish>
+        
+    </translation>
+    <translation class="addl-info-title-addl-info">
+        <spanish>Información Adicional</spanish>
+        
+    </translation>
+    <translation class="addl-info-desc-person-involved">
+        <spanish>¿Puede describir a las personas involucradas ?</spanish>
+        
+    </translation>
+    <translation class="addl-info-desc-vehicles-involved">
+        <spanish>¿Puede describir los vehículos implicados ?</spanish>
+       
+    </translation>
+    <translation class="addl-info-desc-vehicles-involved">
+        <spanish>¿Puede describir los vehículos implicados ?</spanish>
+       
+    </translation>
+    <translation class="addl-info-attach-anything">
+        <spanish>¿Te gustaría adjuntar cualquier cosa ( por ejemplo, fotos , vídeos , etc )</spanish>
+       
+    </translation>
+
+    <!-- vehicleInvolved.html texts-->
+    <translation class="transport-info">
+        <spanish>Transportar Información</spanish>
+        
+    </translation>
+    <translation class="transport-type">
+        <spanish>Tipo de Transporte</spanish>
+       
+    </translation>
+    <translation class="transport-vehicle">
+        <spanish>Vehículo</spanish>
+       
+    </translation>
+    <translation class="transport-aircraft">
+        <spanish>Aeronave</spanish>
+       
+    </translation>
+    <translation class="transport-vessel">
+        <spanish>Buque</spanish>
+        
+    </translation>
+    <translation class="transport-remove">
+        <spanish>quitar</spanish>
+        
+    </translation>
+    <translation class="transport-make">
+        <spanish>hacer</spanish>
+        
+    </translation>
+    <translation class="transport-model">
+        <spanish>modelo</spanish>
+        
+    </translation>
+    <translation class="transport-register">
+        <spanish>Estado de Registro</spanish>
+        
+    </translation>
+    <translation class="transport-color">
+        <spanish>Color</spanish>
+        
+    </translation>
+    <translation class="transport-license">
+        <spanish>Matrícula No</spanish>
+
+    </translation>
+    <translation class="transport-year">
+        <spanish>Año</spanish>
+
+    </translation>
+
+
+    <translation class="transport-partial">
+        <spanish>¿Es Plate parcial ?</spanish>
+        
+    </translation>
+    <translation class="transport-addl-info">
+        <spanish>Cualquier detalle adicional del vehículo</spanish>
+        
+    </translation>
+    <translation class="transport-vehicle-involved">
+        <spanish>¿Puede describir los vehículos implicados ?--(Por favor sea lo más detallado posible)</spanish>
+        
+    </translation>
+    <translation class="transport-vehicle-involved-tooltip">
+        <spanish>( Por favor sea lo más detallado posible )</spanish>
+        <english>(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="transport-person-involved">
+        <spanish>¿Puede describir a las personas involucradas ?</spanish>
+        
+    </translation>
+    <translation class="transport-add-addl-info">
+        <spanish>¿Quieres añadir información adicional?</spanish>
+        
+    </translation>
+    <translation class="transport-attach">
+        <spanish>¿Te gustaría adjuntar cualquier cosa ( por ejemplo, fotos , vídeos , etc )</spanish>
+        
+    </translation>
+
+
+<!-- Uploadattachments.html texts-->
+
+    <translation class="upload-attach-add-attachment">
+        <spanish>¿Quieres agregar datos adjuntos ( fotos, videos, documentos , etc.) ?</spanish>
+       
+    </translation>
+    <translation class="upload-attach-desc-person-involved">
+        <spanish>¿Puede describir a las personas involucradas ?</spanish>
+        
+    </translation>
+    <translation class="upload-attach-desc-vehicle-involved">
+        <spanish>¿Puede describir los vehículos implicados ?</spanish>
+       
+    </translation>
+    <translation class="upload-attach-add-addl-info">
+        <spanish>¿Quieres añadir información adicional?</spanish>
+        
+    </translation>
+    <translation class="ua-upload-button">
+        <spanish>Haga clic para Explorar</spanish>
+    </translation>
+<!-- Thankyou.html -->
+    <translation class="thank-you">
+        <spanish>Muchas gracias por tu ayuda. &lt;br /&gt;
+            Vamos a mirar en el informe y tomar las acciones apropiadas .</spanish>
+        
+    </translation>
+    <translation class="thank-you-interest">
+        <spanish>Gracias por su interés en el bienestar de su vecindario &lt;br /&gt;
+            y su comunidad .</spanish>
+        
+    </translation>
+    <translation class="thank-you-track-report">
+        <spanish>¿Quieres hacer un seguimiento del informe : -</spanish>
+       
+    </translation>
+    <translation class="tracking-reference">
+        <spanish>Su referencia de seguimiento informe es : </spanish>
+    </translation>
+    <translation class="thank-you-clickhere">
+        <spanish>Haz Clic Aquí!</spanish>
+        
+    </translation>
+    <translation class="cancel-btn">
+        <spanish>cancelar</spanish>
+        
+    </translation>
+    <translation class="return-home-btn">
+        <spanish>Vuelve A Casa</spanish>
+        
+    </translation>
+    <translation class="submit-report-btn">
+        <spanish>Enviar Reporte</spanish>
+       
+    </translation>
+    <translation class="submit-btn">
+        <spanish>Enviar</spanish>
+        
+    </translation>
+    <translation class="confirm-submit-btn">
+        <spanish>confirmar &amp; Enviar</spanish>
+        
+    </translation>
+    <translation class="add-another-person">
+        <spanish>Agregar otra persona</spanish>
+       
+    </translation>
+    <translation class="add-another-vehicle">
+        <spanish>Añadir otro vehículo</spanish>
+        
+    </translation>
+    <translation class="proceed-btn">
+        <spanish>proceder</spanish>
+       
+    </translation>
+
+    <translation class="thanks-report-sent">
+        <spanish>Informe enviado.</spanish>
+    </translation>
+
+    <translation class="submit-another-report">
+        <spanish>Presentar otra persona</spanish>
+    </translation>
+
+  <!--  Reported -->
+
+    <translation class="person-reported">
+        <spanish>Persona Reportado</spanish>
+    </translation>
+    <translation class="vehicles-reported">
+        <spanish>Vehículos reporte</spanish>
+    </translation>
+    <translation class="file-uploaded">
+        <spanish>Archivo Subido</spanish>
+    </translation>
+    <translation class="nsi-text">
+        <spanish>2010 Reservados todos los derechos</spanish>
+    </translation>
+</translations>

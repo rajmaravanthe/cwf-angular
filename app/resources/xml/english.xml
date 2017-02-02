@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+
+    <!-- Landing.html texts -->
+    <translation class="landing-home">
+        <english>Home</english>
+    </translation>
+    <translation class="landing-contact">
+        <english>Contact Us</english>
+    </translation>
+    <translation class="landing-further-detail">
+        <english>For further details contact : </english>
+    </translation>
+    <translation class="landing-contact-us">
+        <english>Contact Us</english>
+    </translation>
+
+    <translation class="proceed-btn">
+        <english>Proceed</english>   
+    </translation>
+    <!-- home.html Texts-->
+    <translation class="txt-wel">
+        <english>Welcome to &lt; APP &gt;, the &lt;br /&gt; APP initiative to  &lt;br /&gt;keep you and &lt;br /&gt; your neighbour safe</english>
+       
+    </translation>
+
+    <!-- personalInfo.html Texts-->
+    <translation class="about-yourself">
+        <english>Please tell us about yourself</english>
+    </translation>
+    <translation class="personal-info-your-name">
+        <english>What is your name?*</english>
+    </translation>
+    <translation class="personal-info-contact-info">
+        <english>Would you like to provide any contact information?</english>
+    </translation>
+    <translation class="personal-info-address-line">
+        <english>Address - Line1</english>
+    </translation>
+    <translation class="personal-info-Line2">
+        <english>Line2</english>
+    </translation>
+    <translation class="personal-info-city">
+        <english>City</english>
+    </translation>
+    <translation class="personal-info-state">
+        <english>State</english>
+    </translation>
+    <translation class="personal-info-zip">
+        <english>Zipcode*</english>
+    </translation>
+    <translation class="personal-info-phone">
+       <english>Phone Number*</english>
+    </translation>
+    <translation class="personal-info-email">
+        <english>Email Address*</english>
+    </translation>
+    <translation class="personal-info-confirm">
+        <english>Confirm &amp; Submit</english>
+    </translation>
+    <translation class="personal-info-back">
+        <english>Back</english>
+    </translation>
+    <translation class="personal-info-submit-anonymously">
+        <english>Submit Anonymously</english>
+    </translation>
+
+
+
+
+
+
+    <!-- Step1.html Texts-->
+    <translation class="lang-step-what-you-see">
+        <english>What did you see?--(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="lang-step-what-you-see-tooltip">
+       <english>--(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="lang-step-happen">
+         <english>When did it happen?</english>
+    </translation>
+    <translation class="lang-step-please-describe">
+        <english>I saw --(Please describe it)</english>
+    </translation>
+    <translation class="lang-step-day-of-week">
+        <english>Date/Day of week</english>
+    </translation>
+    <translation class="lang-step-time-of-day">
+        <english>Time of Day</english>
+    </translation>
+    <translation class="lang-step-recurring-event">
+        <english>Is this a recurring event?</english>
+    </translation>
+    <translation class="lang-yes">
+        <english>Yes</english>
+    </translation>
+    <translation class="lang-no">
+        <english>No</english>
+    </translation>
+    <translation class="lang-step-where-occur">
+        <english>Where did it Occur?--(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="lang-step-where-occur-detail">
+        <english>--(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="lang-step-enter-address">
+        <english>Enter Address or Intersection</english>
+    </translation>
+    <translation class="lang-step-mapFieldExample">
+         <english>Eg. 123 Main St, New York, NY 10020 or Broadway and Canal St, NY 10039.</english>
+    </translation>
+    <translation class="lang-step-add-information">
+        <english>Would you like to add additional information?</english>
+    </translation>
+    <translation class="lang-step-persons-involved">
+        <english>Can you describe the persons involved?</english>
+    </translation>
+    <translation class="lang-step-vehicles-involved">
+        <english>Can you describe the vehicles involved</english>
+    </translation>
+    <translation class="lang-step-want-addl-info">
+        <english>Do you want to add additional information?</english>
+    </translation>
+    <translation class="lang-step-attach-anything">
+        <english>Would you like to attach anything (e.g. photos, video, etc)</english>
+    </translation>
+    <translation class="lang-step-submit-report">
+        <english>Do You Want To Submit The Report?</english>
+    </translation>
+    <translation class="go-btn">
+        <english>Go</english>
+    </translation>
+    <translation class="basic-dialog">
+        <english>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</english>
+    </translation>
+    <translation class="description-validation">
+        <english>Description is mandatory</english>
+    </translation>
+
+
+
+
+    <!--  PersonInvolved.html-->
+    <translation class="person-involved-race">
+       <english>Race</english>
+    </translation>
+    <translation class="person-involved-gender">
+       <english>Gender</english>
+    </translation>
+    <translation class="person-involved-height">
+       <english>Height</english>
+    </translation>
+    <translation class="person-involved-age">
+        <english>Age</english>
+    </translation>
+    <translation class="person-involved-ft-inch">
+        <english>eg. (6ft 2inches is 602 )</english>
+    </translation>
+    <translation class="person-involved-build">
+        <english>Build</english>
+    </translation>
+    <translation class="person-involved-eye-color">
+        <english>Eye Color</english>
+    </translation>
+    <translation class="person-involved-hair-color">
+        <english>Hair Color</english>
+    </translation>
+    <translation class="person-involved-addl-info">
+        <english>Any Additional information that you can add about this person</english>
+    </translation>
+    <translation class="person-involved-name">
+        <english>Name</english>
+    </translation>
+    <translation class="person-involved-aliasname">
+        <english>Alias Name</english>
+    </translation>
+    <translation class="person-involved-desc-person">
+        <english>Can you describe the persons involved?--(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="person-involved-desc-person-tooltip">
+       <english>--(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="person-involved-vehicle-involved">
+       <english>Can you describe the vehicles involved?</english>
+    </translation>
+    <translation class="person-involved-addl-information">
+        <english>Do you want to add additional information?</english>
+    </translation>
+    <translation class="person-involved-attach">
+        <english>Would you like to attach anything (e.g. photos, video, etc)</english>
+    </translation>
+    <translation class="remove-field">
+        <english>Remove</english>
+    </translation>
+    <translation class="lang-Persons-reported">
+        <english>Person Reported )</english>
+    </translation>
+
+
+
+
+    <!-- Additional Info Step4 -->
+    <translation class="addl-info-want-addl-info">
+        <english>Do you want to add additional information?--(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="addl-info-want-addl-info-tooltip">
+        <english>--(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="addl-info-title-addl-info">
+        <english>Additional Information</english>
+    </translation>
+    <translation class="addl-info-title-addl-info">
+        <english>Additional Information</english>
+    </translation>
+    <translation class="addl-info-desc-person-involved">
+        <english>Can you describe the persons involved?</english>
+    </translation>
+    <translation class="addl-info-desc-vehicles-involved">
+        <english>Can you describe the vehicles involved?</english>
+    </translation>
+    <translation class="addl-info-desc-vehicles-involved">
+        <english>Can you describe the vehicles involved?</english>
+    </translation>
+    <translation class="addl-info-attach-anything">
+        <english>Would you like to attach anything (e.g. photos, video, etc)</english>
+    </translation>
+
+    <!-- vehicleInvolved.html texts-->
+    <translation class="transport-info">
+        <english>Transport Information</english>
+    </translation>
+    <translation class="transport-type">
+        <english>Transport Type</english>
+    </translation>
+    <translation class="transport-vehicle">
+        <english>Vehicle</english>
+    </translation>
+    <translation class="transport-aircraft">
+        <english>Aircraft</english>
+    </translation>
+    <translation class="transport-vessel">
+        <english>Vessel</english>
+    </translation>
+    <translation class="transport-remove">
+        <english>Remove</english>
+    </translation>
+    <translation class="transport-make">
+        <english>Make</english>
+    </translation>
+    <translation class="transport-model">
+        <english>Model</english>
+    </translation>
+    <translation class="transport-register">
+        <english>Registration State</english>
+    </translation>
+    <translation class="transport-color">
+        <english>Color</english>
+    </translation>
+    <translation class="transport-license">
+        <english>License Plate No</english>
+    </translation>
+    <translation class="transport-year">
+        <english>Year</english>
+
+    </translation>
+    <translation class="transport-partial">
+       <english>Is it Partial Plate?</english>
+    </translation>
+    <translation class="transport-addl-info">
+        <english>Any additional details of the vehicle</english>
+    </translation>
+    <translation class="transport-vehicle-involved">
+        <english>Can you describe the vehicles involved?--(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="transport-vehicle-involved-tooltip">
+        <english>--(Please be as detailed as possible)</english>
+    </translation>
+    <translation class="transport-person-involved">
+        <english>Can you describe the persons involved?</english>
+    </translation>
+    <translation class="transport-add-addl-info">
+        <english>Do you want to add additional information?</english>
+    </translation>
+    <translation class="transport-attach">
+        <english>Would you like to attach anything (e.g. photos, video, etc)</english>
+    </translation>
+
+
+<!-- Uploadattachments.html texts-->
+
+    <translation class="upload-attach-add-attachment">
+        <english>Do you want to add Attachments (Photos, Videos, Documents etc.)?</english>
+    </translation>
+    <translation class="upload-attach-desc-person-involved">
+       <english>Can you describe the persons involved?</english>
+    </translation>
+    <translation class="upload-attach-desc-vehicle-involved">
+        <english>Can you describe the vehicles involved?</english>
+    </translation>
+    <translation class="upload-attach-add-addl-info">
+        <english>Do you want to add additional information?</english>
+    </translation>
+    <translation class="ua-upload-button">
+        <english>Click to Browse</english>
+    </translation>
+
+
+
+
+<!-- Thankyou.html -->
+    <translation class="thank-you">
+        <english>Thank you very much for your assistance. &lt;br /&gt;
+            We will look into the report and take appropriate actions.</english>
+    </translation>
+    <translation class="thank-you-interest">
+        <english>Thank you for your interest in the welfare of your neighbourhood &lt;br /&gt;
+            and your community. </english>
+    </translation>
+    <translation class="thank-you-track-report">
+        <english>Do you want to track the report :- </english>
+    </translation>
+    <translation class="tracking-reference">
+        <english>Your report tracking reference is : </english>
+    </translation>
+    <translation class="thank-you-clickhere">
+        <english> Click Here!</english>
+    </translation>
+    <translation class="cancel-btn">
+        <english> Cancel</english>
+    </translation>
+    <translation class="return-home-btn">
+        <english> Return To Home</english>
+    </translation>
+    <translation class="submit-report-btn">
+        <english> Submit Report</english>
+    </translation>
+    <translation class="submit-btn">
+        <english> Submit</english>
+    </translation>
+    <translation class="confirm-submit-btn">
+        <english> Confirm &amp; Submit</english>
+    </translation>
+    <translation class="add-another-person">
+        <english>Add another person</english>
+    </translation>
+    <translation class="add-another-vehicle">
+        <english>Add another vehicle</english>
+    </translation>
+
+    <translation class="thanks-report-sent">
+        <english>Report sent.</english>
+    </translation>
+
+    <translation class="submit-another-report">
+        <english>Submit another Report</english>
+    </translation>
+
+
+<!--  Reported -->
+
+    <translation class="person-reported">
+        <english>Person Reported</english>
+    </translation>
+    <translation class="vehicles-reported">
+        <english>Vehicles Reported</english>
+    </translation>
+    <translation class="file-uploaded">
+        <english>File Uploaded</english>
+    </translation>
+    <translation class="nsi-text">
+        <english>2010 All rights reserved</english>
+    </translation>
+</translations>

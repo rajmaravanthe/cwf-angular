@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+.qq-uploader { display: block; position: relative; width: 100%; height: 100%; }
+.qq-upload-button {
+	display: block;
+	/*width: 176px;
+	height: 30px;
+	background: url('../images/button-clicktobrowse.gif') no-repeat;*/
+}
+.qq-upload-list {margin:15px 35px; padding:0; list-style:disc;}
+.qq-upload-list li { margin:0; padding:0; line-height:15px; font-size:12px;}
+.qq-upload-file, .qq-upload-spinner, .qq-upload-progress, .qq-upload-cancel, .qq-upload-failed-text {
+	float: left;
+    margin-right: 7px;
+}
+
+.qq-upload-file {}
+.qq-upload-spinner {display:inline-block; background: url("../images/loading.gif"); width:15px; height:15px; vertical-align:text-bottom; margin: 5px 7px 4px;}
+.qq-upload-progress {
+	display: block;
+	width: 12%;
+	overflow: hidden;
+	margin-left: 5%;
+}
+.qq-upload-progress .qq-upload-progress-meter {
+	display: block;
+	width: 100%;
+	height: 10px;
+	position: relative;
+}
+.qq-upload-progress .qq-upload-progress-meter .qq-upload-progress-fill {
+	display: block;
+	height: 100%;
+	position: absolute;
+	left: 0px;
+	background: red;
+}
+
+.qq-upload-size { display: block !important; margin-top: 2px; font-size:11px; text-align: center;}
+
+.qq-upload-failed-text {display:none;}
+.qq-upload-fail .qq-upload-failed-text {display:inline;}
+
+.qq-upload-remove {display:none;}
+.qq-upload-success .qq-upload-remove {display:inline;}

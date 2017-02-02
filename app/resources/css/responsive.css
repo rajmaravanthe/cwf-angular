@@ -1,0 +1,285 @@
+
+
+@media all and (max-width: 880px){
+    #banner .txt-wel {
+        font-size: 25px;
+    }
+    #banner .img-ban {
+        width: 376px;
+        height: 173px;
+        float: left;
+        padding-left: 20px;
+    }
+    .navbar-right{
+        float: right;
+    }
+    .but-proceed {
+        width: 670px;
+    }
+    #hdr {
+      width: 670px;
+    }
+    #wrap {
+      width: 740px;
+    }
+    fieldset legend, fieldset h4, fieldset h3, #conformSubmit, .report h3 {
+      font-size: 15px !important;
+    }
+    fieldset legend .tooltip, fieldset .field label.fieldcap, .field .mapFieldExample, fieldset .optionContainer, .field .radio-caption, .fieldCenter .text-link,  html, body, .frmPersonalInfo .addInfoBox .field-list label.labelField, .frmPersonalInfo .personInfo .field-list label, .frmVehicleInfo .makeInfo label, .frmVehicleInfo .modelInfo label, .frmVehicleInfo .otherInfo label, .frmVehicleInfo .vehicleAddInfo label.fieldcap, .frmVehicleInfo .vehicleColorInfo label.fieldcap, .report h4, .formUpload #file-upload-success li .qq-upload-file, .frmAdditionalInfo .addInfoBox label {
+      font-size: 12px !important;
+    }
+    fieldset .field label.error {
+      font-size:10px;
+    }
+}
+
+@media all and (max-width: 690px){
+    #banner .txt-wel {
+        font-size: 11px;
+        margin-top: 40px;
+    }
+    #banner .img-ban {
+        width: 240px;
+        height: 113px;
+        float: left;
+        padding-left: 20px;
+    }
+    .navbar-right{
+        float: right;
+    }
+    .but-proceed {
+        width: 470px;
+    }
+    #hdr {
+      width: 470px;
+    }
+    #wrap {
+      width: 550px;
+    }
+    fieldset legend, fieldset h4, fieldset h3, #conformSubmit, .report h3 {
+      font-size: 13px !important;
+    }
+    fieldset legend .tooltip, fieldset .field label.fieldcap, .field .mapFieldExample, fieldset .optionContainer, .field .radio-caption, .fieldCenter .text-link, html, body, .frmPersonalInfo .addInfoBox .field-list label.labelField, .frmPersonalInfo .personInfo .field-list label, .frmVehicleInfo .makeInfo label, .frmVehicleInfo .modelInfo label, .frmVehicleInfo .otherInfo label, .frmVehicleInfo .vehicleAddInfo label.fieldcap, .frmVehicleInfo .vehicleColorInfo label.fieldcap, .report h4, .formUpload #file-upload-success li .qq-upload-file, .frmAdditionalInfo .addInfoBox label {
+      font-size: 11px !important;
+    }
+    .field-list .group1 {
+      display: block;
+    }
+    .frmVehicleInfo .makeInfo .selectContainer, .frmVehicleInfo .modelInfo .selectContainer, .frmVehicleInfo .vehicleAddInfo .selectContainer, .frmVehicleInfo .vehicleColorInfo .field-list .selectContainer,  .frmVehicleInfo .vehicleAddInfo .selectYearContainer, .textContainerSmall{
+      width: 65% !important;
+    }
+    .qq-upload-size {
+      font-size: 10px !important;
+    }
+    .remove-field{
+      min-width: 0px !important;
+      font-size: 9px;
+      width: 30px;
+    }
+    #conformSubmit {
+      width: 43%;
+    }
+    .frmpersonainfo .textContainer {
+      width: 50%;
+    }
+    .personal-info-submit-anonymously{
+      width: 50%!important;
+    }
+    .dateResponsive {
+      width:40%;
+    }
+    fieldset .field label.error {
+      font-size:9px;
+    }
+}
+
+@media all and (max-width: 500px){
+    #banner .txt-wel {
+        font-size: 7px;
+        margin-top: 20px;
+    }
+    #banner .img-ban {
+        width: 156px;
+        height: 63px;
+        float: left;
+        padding-left: 20px;
+    }
+    .navbar-right{
+        float: right;
+    }
+    .but-proceed {
+        width: 400px;
+    }
+    #hdr {
+      width: 350px;
+    }
+    #wrap {
+      width: 420px;
+    }
+    #logo{
+      width: 20px;
+    }
+    #logoTD{
+      width: 20px;
+    }
+    #logoTextTD #logoText{
+      font-size: 10px;
+    }
+    #hdr #nav-top{
+      font-size: 10px;
+    }
+    fieldset legend, fieldset h4, fieldset h3, #conformSubmit, .report h3 {
+      font-size: 11px !important;
+    }
+    fieldset legend .tooltip, fieldset .field label.fieldcap, .field .mapFieldExample, fieldset .optionContainer, .field .radio-caption, .fieldCenter .text-link, html, body, .frmPersonalInfo .addInfoBox .field-list label.labelField, .frmPersonalInfo .personInfo .field-list label, .frmVehicleInfo .makeInfo label, .frmVehicleInfo .modelInfo label, .frmVehicleInfo .otherInfo label, .frmVehicleInfo .vehicleAddInfo label.fieldcap, .frmVehicleInfo .vehicleColorInfo label.fieldcap, .report h4, .formUpload #file-upload-success li .qq-upload-file, .frmAdditionalInfo .addInfoBox label {
+      font-size: 10px !important;
+    }
+    #footer-out {
+      width: 100%;
+    }
+    .fieldMap .map-canvas {
+      height: 200px;
+    }
+    .field-list .group {
+      display: block;
+    }
+    .personInfo .field-list .group .textContainer {
+      width: 69%;
+    }
+    .default-btn, .go-btn, .submit-report-btn, .personal-info-submit-anonymously, .frm-common, .ua-upload-button {
+      width: 100px;
+      font-size: 10px;
+      min-width: 0px !important;
+    }
+    .frmVehicleInfo .makeInfo .selectContainer, .frmVehicleInfo .modelInfo .selectContainer, .frmVehicleInfo .vehicleAddInfo .selectContainer, .textContainerSmall, .frmVehicleInfo .vehicleColorInfo .field-list .selectContainer,  .frmVehicleInfo .vehicleAddInfo .selectYearContainer{
+      width: 60% !important;
+    }
+    .qq-upload-size {
+      font-size: 9px !important;
+    }
+    .remove-field{
+      min-width: 0px !important;
+      font-size: 8px;
+      width: 25px;
+    }
+    #conformSubmit {
+      width: 43%;
+    }
+    .frmpersonainfo .textContainer {
+      width: 50%;
+    }
+    .personal-info-submit-anonymously{
+      width: 50%!important;
+    }
+    .dateResponsive {
+      width:55%;
+    }
+    fieldset .field label.error {
+      font-size:7px;
+      margin-left:0% !important;
+    }
+
+}
+@media all and (max-width: 420px){
+    #banner .txt-wel {
+        font-size: 6px;
+        margin-top: 30px;
+    }
+    #banner .img-ban {
+        width: 120px;
+        height: 60px;
+        float: left;
+        padding-left: 10px;
+    }
+    .navbar-right{
+        float: right;
+    }
+    .but-proceed {
+        width: 250px;
+    }
+   #hdr {
+      width: 280px;
+    }
+    #wrap {
+      width: 300px;
+    }
+    #logo{
+      width: 14px;
+    }
+    #logoTD{
+      width: 14px;
+    }
+    #logoTextTD #logoText{
+      font-size: 8px;
+    }
+    #hdr #nav-top{
+      font-size: 8px;
+    }
+    fieldset legend, fieldset h4, fieldset h3, #conformSubmit, .report h3 {
+      font-size: 10px !important;
+    }
+    fieldset legend .tooltip, fieldset .field label.fieldcap, .field .mapFieldExample, fieldset .optionContainer, .field .radio-caption, .fieldCenter .text-link,  html, body, .frmPersonalInfo .addInfoBox .field-list label.labelField, .frmPersonalInfo .personInfo .field-list label, .frmVehicleInfo .makeInfo label, .frmVehicleInfo .modelInfo label, .frmVehicleInfo .otherInfo label, .frmVehicleInfo .vehicleAddInfo label.fieldcap, .frmVehicleInfo .vehicleColorInfo label.fieldcap, .report h4, .formUpload #file-upload-success li .qq-upload-file, .frmAdditionalInfo .addInfoBox label{
+      font-size: 9px !important;
+    }
+    #hdr #nav-top li{
+      display: inline;
+      padding: 0px 1px 0px 1px;
+    }
+    .navbar-nav {
+        margin: 
+    }
+    .fieldMap .map-canvas {
+      height: 150px;
+    }
+    .field-list .group {
+      display: block;
+    }
+    .personInfo .field-list .group .textContainer {
+      width: 69%;
+    }
+    .default-btn, .go-btn, .submit-report-btn, .personal-info-submit-anonymously, .frm-common, .ua-upload-button {
+      width: 70px;
+      font-size: 8px;
+      min-width: 0px !important;
+    }
+    .frmVehicleInfo .makeInfo .selectContainer, .frmVehicleInfo .modelInfo .selectContainer, .frmVehicleInfo .vehicleAddInfo .selectContainer, .textContainerSmall, .frmVehicleInfo .vehicleColorInfo .field-list .selectContainer,  .frmVehicleInfo .vehicleAddInfo .selectYearContainer {
+      width: 50% !important;
+    }
+    .qq-upload-size {
+      font-size: 8px !important;
+    }
+    .remove-field{
+      min-width: 0px !important;
+      font-size: 7px;
+      width: 20px;
+    }
+    #conformSubmit {
+      width: 43%;
+    }
+    .frmpersonainfo .textContainer {
+      width: 50%;
+    }
+    .personal-info-submit-anonymously{
+      width: 50%!important;
+    }
+    .captcha-mobile {
+      overflow: auto;
+      width: 220px;
+    }
+    .personal-info-confirm {
+      width : 100px !important;
+    }
+    .personal-info-submit-anonymously {
+      width : 150px !important;
+    }
+    .dateResponsive {
+      width:50%;
+    }
+    .optionTimeContainer {
+      margin-left:54px;
+    }
+    fieldset .field label.error {
+      font-size:6px;
+      margin-left:0% !important;
+    }
+}

@@ -1,0 +1,106 @@
+<!-- 
+* This configuration file is to declare the file extentions and mime type that are supported at both froent end and backend
+* Inputs: ext
+**
+-->
+<supportedfiles>
+	<uploadlimit>25M</uploadlimit> <!-- Eg: Set the size limit for uploading files. Please use anyone of these K,M,G,T => means KB, MB, GB, TB -->
+	<reportsPath>./xmlreports/</reportsPath> <!-- Set path to store xmlreports -->
+	<uploadsPath>./uploads/</uploadsPath> <!-- Set path to store uploaded documents -->
+	<file type="image">
+		<ext>jpg</ext>
+		<ext>jpe</ext>
+		<ext>jpeg</ext>
+		<ext>jif</ext>
+		<ext>jfif</ext>
+		<ext>jfi</ext>
+		<ext>bmp</ext>
+		<ext>dib</ext>
+		<ext>gif</ext>
+		<ext>png</ext>
+		<ext>tiff</ext>
+		<ext>tif</ext>
+		<ext>ai</ext>
+		<ext>svg</ext>
+		<ext>svgz</ext>
+		<ext>webp</ext>
+	</file>
+	<file type="audio">
+		<ext>aiff</ext>
+		<ext>aif</ext>
+		<ext>aifc</ext>
+		<ext>wav</ext>
+		<ext>flac</ext>
+		<ext>wma</ext>
+		<ext>mp1</ext>
+		<ext>mp2</ext>
+		<ext>mp3</ext>
+		<ext>mp4</ext>
+		<ext>m4a</ext>
+		<ext>m4b</ext>
+		<ext>m4p</ext>
+		<ext>m4v</ext>
+		<ext>m4r</ext>
+		<ext>3gp</ext>
+		<ext>3g2</ext>
+		<ext>aac</ext>
+		<ext>ra</ext>
+		<ext>ram</ext>
+		<ext>mid</ext>
+		<ext>smf</ext>
+		<ext>xmi</ext>
+	</file>
+	<file type="video">
+		<ext>avi</ext>
+		<ext>flv</ext>
+		<ext>f4v</ext>
+		<ext>f4p</ext>
+		<ext>f4a</ext>
+		<ext>f4b</ext>
+		<ext>mpg</ext>
+		<ext>mpeg</ext>
+		<ext>m1v</ext>
+		<ext>m1a</ext>
+		<ext>m2a</ext>
+		<ext>mpa</ext>
+		<ext>mpv</ext>
+		<ext>ogv</ext>
+		<ext>oga</ext>
+		<ext>ogx</ext>
+		<ext>ogg</ext>
+		<ext>spx</ext>
+		<ext>wmv</ext>
+		<ext>mov</ext>
+	</file>
+	<file type="document">
+		<ext>csv</ext>
+		<ext>txt</ext>
+		<ext>doc</ext>
+		<ext>docx</ext>
+		<ext>htm</ext>
+		<ext>html</ext>
+		<ext>odt</ext>
+		<ext>odp</ext>
+		<ext>ods</ext>
+		<ext>odg</ext>
+		<ext>pdf</ext>
+		<ext>rtf</ext>
+		<ext>txt</ext>
+		<ext>xml</ext>
+		<ext>xls</ext>
+		<ext>xlsx</ext>
+		<ext>ppt</ext>
+		<ext>pptx</ext>
+		<ext>ppsx</ext>
+		<ext>pps</ext>
+	</file>
+	<file type="archive">
+		<ext>7z</ext>
+		<ext>gz</ext>
+		<ext>rar</ext>
+		<ext>rev</ext>
+		<ext>tar</ext>
+		<ext>tgz</ext>
+		<ext>zip</ext>
+	</file>
+</supportedfiles>
